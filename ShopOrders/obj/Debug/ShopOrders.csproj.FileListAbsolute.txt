@@ -1,0 +1,7 @@
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\bin\Debug\ShopOrders.exe.config
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\bin\Debug\ShopOrders.exe
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\bin\Debug\ShopOrders.pdb
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.csprojAssemblyReference.cache
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.csproj.CoreCompileInputs.cache
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.exe
+C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.pdb
