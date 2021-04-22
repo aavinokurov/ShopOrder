@@ -5,3 +5,10 @@ C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.csprojAssemblyRef
 C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.csproj.CoreCompileInputs.cache
 C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.exe
 C:\Users\aavin\OneDrive\C#\SQL\ShopOrders\obj\Debug\ShopOrders.pdb
+C:\C#\ShopOrder\ShopOrders\bin\Debug\ShopOrders.exe.config
+C:\C#\ShopOrder\ShopOrders\bin\Debug\ShopOrders.exe
+C:\C#\ShopOrder\ShopOrders\bin\Debug\ShopOrders.pdb
+C:\C#\ShopOrder\ShopOrders\obj\Debug\ShopOrders.csprojAssemblyReference.cache
+C:\C#\ShopOrder\ShopOrders\obj\Debug\ShopOrders.csproj.CoreCompileInputs.cache
+C:\C#\ShopOrder\ShopOrders\obj\Debug\ShopOrders.exe
+C:\C#\ShopOrder\ShopOrders\obj\Debug\ShopOrders.pdb
